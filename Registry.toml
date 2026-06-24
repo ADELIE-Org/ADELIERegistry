@@ -4,3 +4,4 @@ repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 
 [packages]
 748854df-1f9f-4779-a286-58a21c3af615 = { name = "VOFTools", path = "V/VOFTools" }
+a2ef5bc0-ae0c-4286-934f-9b0375ad7002 = { name = "Vofinit", path = "V/Vofinit" }

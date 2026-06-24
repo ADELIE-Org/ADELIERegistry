@@ -1,0 +1,4 @@
+[0]
+FunctionWrappers = "1.1.0-1"
+julia = "1.10.0-1"
+libvofi_jll = "2"
