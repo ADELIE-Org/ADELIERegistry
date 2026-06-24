@@ -1,0 +1,5 @@
+name = "ADELIERegistry"
+uuid = "852b4fb6-8a6a-4cb3-a31b-8236ad3d2adf"
+repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
+
+[packages]
