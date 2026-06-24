@@ -3,6 +3,7 @@ uuid = "852b4fb6-8a6a-4cb3-a31b-8236ad3d2adf"
 repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 
 [packages]
+5a5c722d-174f-4204-bea3-ae8e35ab7e08 = { name = "CartesianGrids", path = "C/CartesianGrids" }
 748854df-1f9f-4779-a286-58a21c3af615 = { name = "VOFTools", path = "V/VOFTools" }
 9ebbbdc3-ccde-421a-bbc9-ca81de7cf635 = { name = "VofiJul", path = "V/VofiJul" }
 a2ef5bc0-ae0c-4286-934f-9b0375ad7002 = { name = "Vofinit", path = "V/Vofinit" }
