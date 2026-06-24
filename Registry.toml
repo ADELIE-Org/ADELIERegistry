@@ -3,3 +3,4 @@ uuid = "852b4fb6-8a6a-4cb3-a31b-8236ad3d2adf"
 repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 
 [packages]
+748854df-1f9f-4779-a286-58a21c3af615 = { name = "VOFTools", path = "V/VOFTools" }
