@@ -13,6 +13,7 @@ dependencies resolved automatically, instead of juggling `dev` paths or
 | `VOFTools` | — |
 | `Vofinit` | — |
 | `VofiJul` | — |
+| `FrontIntrinsicOps` | — |
 | `CartesianGrids` | — |
 | `ISOAP` | `CartesianGrids` |
 
@@ -26,14 +27,14 @@ Pkg.Registry.add("General")  # if this depot has no General registry yet
 Pkg.Registry.add(Pkg.RegistrySpec(url="https://github.com/ADELIE-Org/ADELIERegistry.git"))
 
 # then add whichever packages you need — deps resolve through the registry:
-Pkg.add(["CartesianGrids", "ISOAP", "VofiJul", "Vofinit", "VOFTools"])
+Pkg.add(["CartesianGrids", "ISOAP", "VofiJul", "Vofinit", "VOFTools", "FrontIntrinsicOps"])
 ```
 
 Or from the Pkg REPL (`]`):
 
 ```
 registry add https://github.com/ADELIE-Org/ADELIERegistry.git
-add CartesianGrids ISOAP VofiJul Vofinit VOFTools
+add CartesianGrids ISOAP VofiJul Vofinit VOFTools FrontIntrinsicOps
 ```
 
 The registry only stores metadata; package source is fetched from each package's
