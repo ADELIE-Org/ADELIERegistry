@@ -1,0 +1,9 @@
+[0]
+CartesianGrids = "0.1"
+ImplicitIntegration = "0.2"
+KernelAbstractions = "0.9"
+StaticArrays = "1"
+TiledIteration = "0.5"
+VofiJul = "0.1"
+Vofinit = "0.1"
+julia = "1.10.0-1"
