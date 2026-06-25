@@ -9,3 +9,4 @@ repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 9ebbbdc3-ccde-421a-bbc9-ca81de7cf635 = { name = "VofiJul", path = "V/VofiJul" }
 a2ef5bc0-ae0c-4286-934f-9b0375ad7002 = { name = "Vofinit", path = "V/Vofinit" }
 b6d9925f-6097-43d4-b8ff-c6cf6db146cf = { name = "FrontIntrinsicOps", path = "F/FrontIntrinsicOps" }
+c559c034-0266-41c8-b9de-12815527c88c = { name = "FrontCartesianGeometry", path = "F/FrontCartesianGeometry" }

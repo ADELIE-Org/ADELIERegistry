@@ -1,0 +1,4 @@
+[0]
+FrontIntrinsicOps = "b6d9925f-6097-43d4-b8ff-c6cf6db146cf"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
