@@ -7,6 +7,7 @@ repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 5a5c722d-174f-4204-bea3-ae8e35ab7e08 = { name = "CartesianGrids", path = "C/CartesianGrids" }
 5dfd4713-e1de-4e17-8e01-e86ec405dc37 = { name = "ISOAP", path = "I/ISOAP" }
 748854df-1f9f-4779-a286-58a21c3af615 = { name = "VOFTools", path = "V/VOFTools" }
+7d1c641b-05d2-41e0-abea-6495ab56cdc9 = { name = "FrontSpaceTimeDEC", path = "F/FrontSpaceTimeDEC" }
 9ebbbdc3-ccde-421a-bbc9-ca81de7cf635 = { name = "VofiJul", path = "V/VofiJul" }
 a2ef5bc0-ae0c-4286-934f-9b0375ad7002 = { name = "Vofinit", path = "V/Vofinit" }
 b6d9925f-6097-43d4-b8ff-c6cf6db146cf = { name = "FrontIntrinsicOps", path = "F/FrontIntrinsicOps" }
