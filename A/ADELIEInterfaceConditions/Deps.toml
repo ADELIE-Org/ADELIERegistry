@@ -1,0 +1,4 @@
+[0]
+ADELIEBoundaryConditions = "d005c396-e0f6-4bce-8722-c54c852ccdb8"
+ADELIEContracts = "503a8e5e-9b08-47e7-ad71-3bdb59e37e05"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
