@@ -4,6 +4,7 @@ repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 
 [packages]
 178ba3f9-9d2c-41c2-b55a-b821a5514fe7 = { name = "CartesianGeometry", path = "C/CartesianGeometry" }
+503a8e5e-9b08-47e7-ad71-3bdb59e37e05 = { name = "ADELIEContracts", path = "A/ADELIEContracts" }
 5a5c722d-174f-4204-bea3-ae8e35ab7e08 = { name = "CartesianGrids", path = "C/CartesianGrids" }
 5dfd4713-e1de-4e17-8e01-e86ec405dc37 = { name = "ISOAP", path = "I/ISOAP" }
 748854df-1f9f-4779-a286-58a21c3af615 = { name = "VOFTools", path = "V/VOFTools" }
