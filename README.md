@@ -10,6 +10,9 @@ dependencies resolved automatically, instead of juggling `dev` paths or
 
 | Package | Depends on (within ADELIE) |
 |---|---|
+| `AlgebraCore` | — |
+| `ScalarAlgebra` | `AlgebraCore` |
+| `FieldAlgebra` | `AlgebraCore`, `ScalarAlgebra` |
 | `VOFTools` | — |
 | `Vofinit` | — |
 | `VofiJul` | — |
@@ -39,7 +42,14 @@ add CartesianGrids ISOAP VofiJul Vofinit VOFTools FrontIntrinsicOps FrontCartesi
 ```
 
 The registry only stores metadata; package source is fetched from each package's
-own public GitHub repo under `ADELIE-Org`.
+own GitHub repo under `ADELIE-Org`.
+
+`AlgebraCore` / `ScalarAlgebra` / `FieldAlgebra` are ADELIE-Org **mirror forks** of
+the upstream symbolic-algebra trio (`vlc1/*`), kept at identical names + UUIDs so
+downstream packages depend on them unchanged. Note: General already registers an
+unrelated `FieldAlgebra` (uuid `0b62d163-…`); ours is uuid
+`37466282-f9df-4509-9b24-142db341d2b3`, so depend on it by UUID — a bare
+`Pkg.add("FieldAlgebra")` is ambiguous.
 
 ## Using it in CI / docs
 
