@@ -11,6 +11,7 @@ repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 60794e7d-98f0-4a77-a4fa-730d5cb83166 = { name = "ScalarAlgebra", path = "S/ScalarAlgebra" }
 748854df-1f9f-4779-a286-58a21c3af615 = { name = "VOFTools", path = "V/VOFTools" }
 7d1c641b-05d2-41e0-abea-6495ab56cdc9 = { name = "FrontSpaceTimeDEC", path = "F/FrontSpaceTimeDEC" }
+86518211-ffdd-4af2-8f3c-85d418569ed1 = { name = "AdelieOperators", path = "A/AdelieOperators" }
 9ebbbdc3-ccde-421a-bbc9-ca81de7cf635 = { name = "VofiJul", path = "V/VofiJul" }
 a2ef5bc0-ae0c-4286-934f-9b0375ad7002 = { name = "Vofinit", path = "V/Vofinit" }
 b6d9925f-6097-43d4-b8ff-c6cf6db146cf = { name = "FrontIntrinsicOps", path = "F/FrontIntrinsicOps" }

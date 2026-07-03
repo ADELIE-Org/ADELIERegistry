@@ -1,0 +1,10 @@
+[0]
+AlgebraCore = "1ed6f371-fc45-4d53-9607-dafcbbd38b34"
+CartesianGeometry = "178ba3f9-9d2c-41c2-b55a-b821a5514fe7"
+CartesianGrids = "5a5c722d-174f-4204-bea3-ae8e35ab7e08"
+FieldAlgebra = "37466282-f9df-4509-9b24-142db341d2b3"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+ScalarAlgebra = "60794e7d-98f0-4a77-a4fa-730d5cb83166"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Static = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
