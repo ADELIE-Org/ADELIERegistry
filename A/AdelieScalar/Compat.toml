@@ -14,5 +14,8 @@ AdelieSolverCore = "0.11"
 ["0.4-0"]
 ForwardDiff = ["0.10", "1"]
 
-["0.7.2-0"]
+["0.7.2-0.8.0"]
 AdelieSolverCore = "0.12"
+
+["0.8.1-0"]
+AdelieSolverCore = "0.13"
