@@ -10,6 +10,7 @@ repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 5dfd4713-e1de-4e17-8e01-e86ec405dc37 = { name = "ISOAP", path = "I/ISOAP" }
 60794e7d-98f0-4a77-a4fa-730d5cb83166 = { name = "ScalarAlgebra", path = "S/ScalarAlgebra" }
 748854df-1f9f-4779-a286-58a21c3af615 = { name = "VOFTools", path = "V/VOFTools" }
+750d4d02-2cfc-4aad-be47-7ed1619ca250 = { name = "AdelieValidation", path = "A/AdelieValidation" }
 7d1c641b-05d2-41e0-abea-6495ab56cdc9 = { name = "FrontSpaceTimeDEC", path = "F/FrontSpaceTimeDEC" }
 86518211-ffdd-4af2-8f3c-85d418569ed1 = { name = "AdelieOperators", path = "A/AdelieOperators" }
 9025cefa-3883-48b0-bd9b-a8ff01ddb5b9 = { name = "CutCellConditions", path = "C/CutCellConditions" }
