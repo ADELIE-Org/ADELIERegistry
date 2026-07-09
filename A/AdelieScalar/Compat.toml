@@ -32,4 +32,9 @@ CutCellConditions = "0.1.6-0.1"
 
 ["0.8.4-0"]
 AdelieOperators = "0.1.8-0.1"
+
+["0.8.4-0.8.5"]
 AdelieSolverCore = "0.14.2-0.14"
+
+["0.8.6-0"]
+AdelieSolverCore = "0.14.3-0.14"
