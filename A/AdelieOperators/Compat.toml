@@ -1,6 +1,5 @@
 [0]
 AlgebraCore = "0.1"
-CartesianGeometry = "0.1"
 CartesianGrids = "0.1"
 FieldAlgebra = "0.1.1-0.1"
 LinearAlgebra = "1.10.0-1"
@@ -9,3 +8,9 @@ SparseArrays = "1.10.0-1"
 Static = "1"
 StaticArrays = "1.9.0-1"
 julia = "1.10.0-1"
+
+["0-0.1.8"]
+CartesianGeometry = "0.1"
+
+["0.1.9-0"]
+CartesianGeometry = "0.2"
