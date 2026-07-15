@@ -19,9 +19,13 @@ ForwardDiff = ["0.10", "1"]
 ["0.16"]
 CutCellConditions = "0.1.5-0.2"
 
-["0.17-0"]
+["0.17-0.17.1"]
 AdelieOperators = "0.1.10-0.1"
 CutCellConditions = "0.2.2-0.2"
+
+["0.17.2-0"]
+AdelieOperators = "0.1.12-0.1"
+CutCellConditions = "0.2.6-0.2"
 
 ["0.2-0"]
 LinearSolve = "4"
