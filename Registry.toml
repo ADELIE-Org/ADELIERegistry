@@ -6,6 +6,7 @@ repo = "https://github.com/ADELIE-Org/ADELIERegistry.git"
 178ba3f9-9d2c-41c2-b55a-b821a5514fe7 = { name = "CartesianGeometry", path = "C/CartesianGeometry" }
 1ed6f371-fc45-4d53-9607-dafcbbd38b34 = { name = "AlgebraCore", path = "A/AlgebraCore" }
 37466282-f9df-4509-9b24-142db341d2b3 = { name = "FieldAlgebra", path = "F/FieldAlgebra" }
+5226656d-333b-451f-9f35-c95670ce899b = { name = "AdelieFlow", path = "A/AdelieFlow" }
 5a5c722d-174f-4204-bea3-ae8e35ab7e08 = { name = "CartesianGrids", path = "C/CartesianGrids" }
 5dfd4713-e1de-4e17-8e01-e86ec405dc37 = { name = "ISOAP", path = "I/ISOAP" }
 60794e7d-98f0-4a77-a4fa-730d5cb83166 = { name = "ScalarAlgebra", path = "S/ScalarAlgebra" }
