@@ -1,0 +1,10 @@
+[0]
+AdelieOperators = "86518211-ffdd-4af2-8f3c-85d418569ed1"
+AdelieSolverCore = "fd383b27-61ae-43b9-be84-d33fac72113e"
+CartesianGeometry = "178ba3f9-9d2c-41c2-b55a-b821a5514fe7"
+CartesianGrids = "5a5c722d-174f-4204-bea3-ae8e35ab7e08"
+CutCellConditions = "9025cefa-3883-48b0-bd9b-a8ff01ddb5b9"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
