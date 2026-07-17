@@ -1,0 +1,6 @@
+[0]
+CartesianGrids = "5a5c722d-174f-4204-bea3-ae8e35ab7e08"
+FrontIntrinsicOps = "b6d9925f-6097-43d4-b8ff-c6cf6db146cf"
+LevelSetMethods = "ca3df947-0575-4ae6-b9a3-78df393a7451"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
