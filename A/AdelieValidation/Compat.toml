@@ -11,5 +11,8 @@ AdelieScalar = "0.8"
 ["0.3"]
 AdelieScalar = "0.9"
 
-["0.4-0"]
+["0.4.0"]
 AdelieScalar = "0.11"
+
+["0.4.1-0"]
+AdelieScalar = "0.11-0.12"
