@@ -25,7 +25,7 @@ AdelieOperators = "0.1.9-0.1"
 AdelieSolverCore = "0.15.2-0.15"
 CutCellConditions = "0.1.8-0.1"
 
-["0.11-0"]
+["0.11-0.12.3"]
 CartesianGeometry = "0.2"
 
 ["0.12.0"]
@@ -45,8 +45,12 @@ AdelieSolverCore = "0.23.1-0.24"
 ["0.12.2-0"]
 AdelieOperators = "0.2.4-0.3"
 
-["0.12.3-0"]
+["0.12.3"]
 AdelieSolverCore = "0.23.1-0.25"
+
+["0.12.4-0"]
+AdelieSolverCore = "0.23.1-0.26"
+CartesianGeometry = "0.2-0.3"
 
 ["0.4-0"]
 ForwardDiff = ["0.10", "1"]
