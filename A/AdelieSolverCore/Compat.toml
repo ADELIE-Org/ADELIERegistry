@@ -46,3 +46,6 @@ AdelieOperators = "0.2.4-0.2"
 ["0.24-0"]
 AdelieOperators = "0.2.4-0.3"
 LinearSolve = "4-5"
+
+["0.26-0"]
+CartesianGeometry = "0.1-0.3"
