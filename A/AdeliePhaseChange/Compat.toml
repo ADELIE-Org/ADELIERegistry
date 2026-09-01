@@ -13,6 +13,11 @@ julia = "1.10.0-1"
 AdelieOperators = "0.2.3-0.2"
 AdelieSolverCore = "0.23"
 
+["0.1.1"]
+AdelieSolverCore = "0.23-0.24"
+
 ["0.1.1-0"]
 AdelieOperators = "0.2.3-0.3"
-AdelieSolverCore = "0.23-0.24"
+
+["0.1.2-0"]
+AdelieSolverCore = "0.23-0.25"
