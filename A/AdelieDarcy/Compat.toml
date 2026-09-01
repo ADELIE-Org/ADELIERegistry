@@ -1,5 +1,4 @@
 [0]
-CartesianGeometry = "0.2"
 CartesianGrids = "0.1"
 LinearAlgebra = "1.10.0-1"
 SparseArrays = "1.10.0-1"
@@ -14,6 +13,9 @@ CutCellConditions = "0.3"
 ["0-0.1.3"]
 LinearSolve = "4"
 
+["0-0.1.5"]
+CartesianGeometry = "0.2"
+
 ["0.1.3"]
 AdelieOperators = "0.2.4-0.2"
 
@@ -27,5 +29,9 @@ AdelieSolverCore = "0.23.2-0.24"
 AdelieOperators = "0.2.4-0.3"
 LinearSolve = "4-5"
 
-["0.1.5-0"]
+["0.1.5"]
 AdelieSolverCore = "0.23.2-0.25"
+
+["0.1.6-0"]
+AdelieSolverCore = "0.23.2-0.26"
+CartesianGeometry = "0.2-0.3"
