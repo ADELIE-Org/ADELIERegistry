@@ -18,9 +18,14 @@ LinearSolve = "4"
 AdelieOperators = "0.2.4-0.2"
 
 ["0.1.3-0"]
-AdelieSolverCore = "0.23.2-0.24"
 CutCellConditions = "0.3.7-0.3"
+
+["0.1.3-0.1.4"]
+AdelieSolverCore = "0.23.2-0.24"
 
 ["0.1.4-0"]
 AdelieOperators = "0.2.4-0.3"
 LinearSolve = "4-5"
+
+["0.1.5-0"]
+AdelieSolverCore = "0.23.2-0.25"
