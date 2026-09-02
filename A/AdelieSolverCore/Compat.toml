@@ -37,11 +37,11 @@ LinearSolve = "4"
 AdelieOperators = "0.2.2-0.2"
 CutCellConditions = "0.3.2-0.3"
 
-["0.23.2-0"]
-CutCellConditions = "0.3.6-0.3"
-
 ["0.23.2-0.23"]
 AdelieOperators = "0.2.4-0.2"
+
+["0.23.2-0.26"]
+CutCellConditions = "0.3.6-0.3"
 
 ["0.24-0"]
 AdelieOperators = "0.2.4-0.3"
@@ -49,3 +49,6 @@ LinearSolve = "4-5"
 
 ["0.26-0"]
 CartesianGeometry = "0.1-0.3"
+
+["0.27-0"]
+CutCellConditions = "0.3.12-0.3"
