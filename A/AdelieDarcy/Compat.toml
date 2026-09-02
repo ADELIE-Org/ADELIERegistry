@@ -32,6 +32,11 @@ LinearSolve = "4-5"
 ["0.1.5"]
 AdelieSolverCore = "0.23.2-0.25"
 
-["0.1.6-0"]
+["0.1.6"]
 AdelieSolverCore = "0.23.2-0.26"
+
+["0.1.6-0"]
 CartesianGeometry = "0.2-0.3"
+
+["0.1.7-0"]
+AdelieSolverCore = "0.23.2-0.27"
