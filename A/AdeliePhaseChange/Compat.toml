@@ -27,8 +27,13 @@ AdelieOperators = "0.2.3-0.3"
 AdelieSolverCore = "0.23-0.25"
 
 ["0.1.3-0"]
-AdelieSolverCore = "0.23-0.26"
 CartesianGeometry = "0.1-0.3"
+
+["0.1.3-0.1.4"]
+AdelieSolverCore = "0.23-0.26"
 
 ["0.1.4-0"]
 InterfaceMotion = "0.1-0.2"
+
+["0.1.5-0"]
+AdelieSolverCore = "0.23-0.27"
