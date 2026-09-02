@@ -48,9 +48,14 @@ AdelieOperators = "0.2.4-0.3"
 ["0.12.3"]
 AdelieSolverCore = "0.23.1-0.25"
 
-["0.12.4-0"]
+["0.12.4"]
 AdelieSolverCore = "0.23.1-0.26"
+
+["0.12.4-0"]
 CartesianGeometry = "0.2-0.3"
+
+["0.12.5-0"]
+AdelieSolverCore = "0.23.1-0.27"
 
 ["0.4-0"]
 ForwardDiff = ["0.10", "1"]
